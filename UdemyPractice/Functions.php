@@ -27,4 +27,4 @@
 
   }
 
-  printFullName("Mohamed", "Hassan");
+  printFullName("Srushti", "Rindhe");
